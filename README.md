@@ -1,3 +1,3 @@
 ## MY PORTFOLIO WEBSITE
 
-#### Check it out: manasa711.github.io
+#### Check it out: https://manasa711.github.io/
